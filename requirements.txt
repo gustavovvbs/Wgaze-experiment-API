@@ -1,0 +1,13 @@
+
+
+pydantic==1.10.13
+python-dotenv
+bs4
+uvicorn
+pinecone-client
+fastapi
+sse_starlette
+pymongo
+langchain-mongodb
+hypercorn
+apscheduler
