@@ -29,6 +29,7 @@ class TrialData(BaseModel):
     name: str
     age: int
     data: Any
+    word: str
 
 @app.post("/trial")
 async def ingest_data(trial_data: TrialData):
