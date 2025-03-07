@@ -1,7 +1,7 @@
 import os 
 import torch
 
-MONGODB_URI = "mongodb+srv://gustavovvbs:czIfQXzCyM2jSSfz@wgaze.bgcts.mongodb.net/"
+MONGODB_URI = "EITA"
 DB_NAME = "wgaze"
 COLLECTION_NAME = "batches"
 WORDS_FILENAME = "data/words.txt"
