@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 plots/
-
+*/experiments/
 # C extensions
 *.so
 
